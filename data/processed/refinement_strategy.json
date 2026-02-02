@@ -1,0 +1,63 @@
+{
+  "global_adjustment": {
+    "reason": "Systematic underestimation of 1.93pp identified",
+    "action": "Apply global upward adjustment factor",
+    "adjustment_factor": 1.25,
+    "applicability": "All events with positive validation errors",
+    "confidence": "Medium"
+  },
+  "event_specific_adjustments": {
+    "Telebirr Launch": {
+      "issue": "Severely underestimates ACC_OWNERSHIP impact (8.80pp error)",
+      "reason": "Telebirr had broader ecosystem effects beyond mobile money",
+      "action": "Increase ACC_OWNERSHIP impact significantly",
+      "adjustment_factor": 3.0,
+      "confidence": "High"
+    },
+    "NFIS-II Strategy Launch": {
+      "issue": "Underestimates ACC_OWNERSHIP impact (5.00pp error)",
+      "reason": "National strategies have comprehensive, long-term effects",
+      "action": "Increase ACC_OWNERSHIP and USG_DIGITAL_PAYMENT impacts",
+      "adjustment_factor": 1.8,
+      "confidence": "Medium"
+    },
+    "policy_events": {
+      "issue": "Policy events consistently underestimated",
+      "reason": "Policy effects are cumulative and systemic",
+      "action": "Increase all policy event impacts by category factor",
+      "adjustment_factor": 1.5,
+      "applicable_categories": [
+        "policy",
+        "regulation",
+        "strategy"
+      ],
+      "confidence": "Medium"
+    }
+  },
+  "indicator_specific_adjustments": {
+    "ACC_OWNERSHIP": {
+      "issue": "Consistently underestimated across multiple events",
+      "reason": "Account ownership is influenced by multiple converging factors",
+      "action": "Increase ACC_OWNERSHIP impacts by 30%",
+      "adjustment_factor": 1.3,
+      "confidence": "High"
+    },
+    "ACC_MM_ACCOUNT": {
+      "issue": "Some underestimation, some overestimation",
+      "reason": "Mobile money impacts are more immediate and measurable",
+      "action": "Keep current estimates, apply only event-specific adjustments",
+      "adjustment_factor": 1.0,
+      "confidence": "Medium"
+    }
+  },
+  "confidence_scoring": {
+    "high_confidence": "Events with validation data and low error (<2pp)",
+    "medium_confidence": "Events adjusted based on comparable evidence",
+    "low_confidence": "Events without validation data or high error (>3pp)",
+    "uncertainty_ranges": {
+      "high": "\u00b11.0pp",
+      "medium": "\u00b12.0pp",
+      "low": "\u00b13.0pp"
+    }
+  }
+}

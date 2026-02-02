@@ -1,0 +1,25 @@
+event,category,indicator,original,adjusted,adjustment_factor,adjustment_type
+Telebirr Launch,product_launch,ACC_MM_ACCOUNT,5.0,6.0,1.2,comparable_country_evidence
+Telebirr Launch,product_launch,USG_DIGITAL_PAYMENT,3.0,3.9000000000000004,1.3,comparable_country_evidence
+Telebirr Launch,product_launch,ACC_OWNERSHIP,2.0,2.2,1.1,comparable_country_evidence
+NFIS-II Strategy Launch,policy,ACC_OWNERSHIP,5.0,6.0,1.2,comparable_country_evidence
+NFIS-II Strategy Launch,policy,USG_DIGITAL_PAYMENT,3.0,3.3000000000000003,1.1,comparable_country_evidence
+NFIS-II Strategy Launch,policy,ACC_MM_ACCOUNT,2.0,2.0,1.0,comparable_country_evidence
+Safaricom Ethiopia Commercial Launch,market_entry,ACC_MM_ACCOUNT,2.0,1.6,0.8,comparable_country_evidence
+Safaricom Ethiopia Commercial Launch,market_entry,USG_DIGITAL_PAYMENT,4.0,4.0,1.0,comparable_country_evidence
+Safaricom Ethiopia Commercial Launch,market_entry,ACC_OWNERSHIP,1.0,0.9,0.9,comparable_country_evidence
+M-Pesa Ethiopia Launch,product_launch,ACC_MM_ACCOUNT,5.0,6.0,1.2,comparable_country_evidence
+M-Pesa Ethiopia Launch,product_launch,USG_DIGITAL_PAYMENT,3.0,3.9000000000000004,1.3,comparable_country_evidence
+M-Pesa Ethiopia Launch,product_launch,ACC_OWNERSHIP,2.0,2.2,1.1,comparable_country_evidence
+Fayda Digital ID Program Rollout,infrastructure,ACC_OWNERSHIP,4.0,4.0,1.0,comparable_country_evidence
+Fayda Digital ID Program Rollout,infrastructure,INF_4G_COVERAGE,15.0,22.5,1.5,comparable_country_evidence
+Fayda Digital ID Program Rollout,infrastructure,INF_AGENT_DENSITY,20.0,26.0,1.3,comparable_country_evidence
+Foreign Exchange Liberalization,policy,ACC_OWNERSHIP,5.0,6.0,1.2,comparable_country_evidence
+Foreign Exchange Liberalization,policy,USG_DIGITAL_PAYMENT,3.0,3.3000000000000003,1.1,comparable_country_evidence
+Foreign Exchange Liberalization,policy,ACC_MM_ACCOUNT,2.0,2.0,1.0,comparable_country_evidence
+EthioPay Instant Payment System Launch,infrastructure,ACC_OWNERSHIP,4.0,4.0,1.0,comparable_country_evidence
+EthioPay Instant Payment System Launch,infrastructure,INF_4G_COVERAGE,15.0,22.5,1.5,comparable_country_evidence
+EthioPay Instant Payment System Launch,infrastructure,INF_AGENT_DENSITY,20.0,26.0,1.3,comparable_country_evidence
+P2P Interoperability Launch,infrastructure,ACC_OWNERSHIP,4.0,4.0,1.0,comparable_country_evidence
+P2P Interoperability Launch,infrastructure,INF_4G_COVERAGE,15.0,22.5,1.5,comparable_country_evidence
+P2P Interoperability Launch,infrastructure,INF_AGENT_DENSITY,20.0,26.0,1.3,comparable_country_evidence

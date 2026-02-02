@@ -1,0 +1,8 @@
+event,indicator,issue,suggested_action
+Telebirr Launch,ACC_OWNERSHIP,High error: 8.80pp,Review comparable evidence or adjust impact magnitude
+NFIS-II Strategy Launch,ACC_OWNERSHIP,High error: 5.00pp,Review comparable evidence or adjust impact magnitude
+Safaricom Ethiopia Commercial Launch,ACC_OWNERSHIP,High error: 2.10pp,Review comparable evidence or adjust impact magnitude
+Safaricom Ethiopia Commercial Launch,ACC_MM_ACCOUNT,High error: 3.15pp,Review comparable evidence or adjust impact magnitude
+Foreign Exchange Liberalization,ACC_OWNERSHIP,High error: 3.00pp,Review comparable evidence or adjust impact magnitude
+Foreign Exchange Liberalization,ACC_MM_ACCOUNT,High error: 2.75pp,Review comparable evidence or adjust impact magnitude
+ALL,ALL,Systematic underestimating: 1.93pp,Apply global adjustment factor of 0.81

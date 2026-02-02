@@ -1,0 +1,8 @@
+Ethiopian_Event_Type,Comparable_Country,Comparable_Event,Key_Impacts,Applicability,Impact_Range_ACC,Impact_Range_USG
+product_launch,Kenya,m_pesa_launch_2007,"['impact_on_account_ownership', 'impact_on_digital...",high,3-6pp over 3-4 years,8-15pp over 2-3 years
+product_launch,Tanzania,multiple_provider_entry,"['impact_on_mobile_money_penetration', 'impact_on_...",medium,3-6pp over 3-4 years,8-15pp over 2-3 years
+infrastructure,Rwanda,government_digital_push_2015,"['impact_on_financial_inclusion', 'impact_on_digit...",high,4-8pp over 3-5 years,N/A
+infrastructure,India,aadhaar_digital_id,"['impact_on_account_opening', 'impact_on_kyc_costs...",high,4-8pp over 3-5 years,N/A
+policy,Rwanda,government_digital_push_2015,"['impact_on_financial_inclusion', 'impact_on_digit...",medium,5-10pp over 3-5 years,3-6pp over 2-4 years
+policy,Rwanda,agent_network_regulation,"['impact_on_agent_density', 'impact_on_rural_cover...",medium,5-10pp over 3-5 years,3-6pp over 2-4 years
+market_entry,Tanzania,multiple_provider_entry,"['impact_on_mobile_money_penetration', 'impact_on_...",high,N/A,3-6pp over 1-2 years

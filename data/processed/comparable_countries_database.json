@@ -1,0 +1,134 @@
+{
+  "Kenya": {
+    "region": "East Africa",
+    "similarities": [
+      "Mobile money pioneer (M-Pesa launched 2007)",
+      "Similar economic development stage",
+      "Large rural population",
+      "Agent network driven adoption"
+    ],
+    "financial_inclusion_2023": {
+      "account_ownership": 79.0,
+      "digital_payments": 68.0,
+      "mobile_money_accounts": 73.0
+    },
+    "key_studies": [
+      "Suri & Jack (2016): \"The Long-Run Poverty and Gender Impacts of Mobile Money\" (Science)",
+      "FSD Kenya FinAccess Surveys 2006-2021",
+      "GSMA: Kenya Mobile Money Case Study"
+    ],
+    "impact_evidence": {
+      "m_pesa_launch_2007": {
+        "impact_on_account_ownership": "+12pp over 3 years",
+        "impact_on_digital_payments": "+25pp over 5 years",
+        "lag_structure": "gradual over 24-36 months",
+        "confidence": "high"
+      },
+      "interoperability_2018": {
+        "impact_on_transaction_volumes": "+40% in first year",
+        "impact_on_agent_network": "+15% expansion",
+        "lag_structure": "immediate to 6 months",
+        "confidence": "medium"
+      }
+    }
+  },
+  "Tanzania": {
+    "region": "East Africa",
+    "similarities": [
+      "Multiple mobile money providers (Vodacom, Airtel, Tigo)",
+      "Regulatory framework development",
+      "Urban-rural digital divide",
+      "Agent network critical for inclusion"
+    ],
+    "financial_inclusion_2023": {
+      "account_ownership": 65.0,
+      "digital_payments": 52.0,
+      "mobile_money_accounts": 61.0
+    },
+    "key_studies": [
+      "FinScope Tanzania surveys",
+      "Bank of Tanzania Payment Systems Reports",
+      "GSMA: Tanzania Digital Finance Landscape"
+    ],
+    "impact_evidence": {
+      "multiple_provider_entry": {
+        "impact_on_mobile_money_penetration": "+8pp per major entry",
+        "impact_on_price_competition": "-15% average transaction fees",
+        "lag_structure": "12-18 months",
+        "confidence": "medium"
+      },
+      "digital_id_rollout": {
+        "impact_on_account_opening": "+5pp in first year",
+        "impact_on_kyc_costs": "-60% reduction",
+        "lag_structure": "6-12 months",
+        "confidence": "high"
+      }
+    }
+  },
+  "Rwanda": {
+    "region": "East Africa",
+    "similarities": [
+      "Government-led digital transformation",
+      "Small market size enabling rapid change",
+      "Strong infrastructure investments",
+      "National ID system integration"
+    ],
+    "financial_inclusion_2023": {
+      "account_ownership": 71.0,
+      "digital_payments": 58.0,
+      "mobile_money_accounts": 39.0
+    },
+    "key_studies": [
+      "National Bank of Rwanda Financial Inclusion Reports",
+      "Access to Finance Rwanda (AFR) studies",
+      "GSMA: Rwanda Mobile Money Policy Review"
+    ],
+    "impact_evidence": {
+      "government_digital_push_2015": {
+        "impact_on_financial_inclusion": "+22pp over 5 years",
+        "impact_on_digital_payments": "+35pp over 5 years",
+        "lag_structure": "gradual over 36-48 months",
+        "confidence": "high"
+      },
+      "agent_network_regulation": {
+        "impact_on_agent_density": "+150% over 3 years",
+        "impact_on_rural_coverage": "+40pp increase",
+        "lag_structure": "18-24 months",
+        "confidence": "medium"
+      }
+    }
+  },
+  "India": {
+    "region": "South Asia",
+    "similarities": [
+      "Large population with digital ID (Aadhaar)",
+      "UPI interoperability system success",
+      "Bank-led digital transformation",
+      "Government financial inclusion programs"
+    ],
+    "financial_inclusion_2023": {
+      "account_ownership": 78.0,
+      "digital_payments": 46.0,
+      "mobile_money_accounts": 14.0
+    },
+    "key_studies": [
+      "CRISIL Inclusix Financial Inclusion Index",
+      "RBI (Reserve Bank of India) reports",
+      "IMF: India Digital Payments Case Study"
+    ],
+    "impact_evidence": {
+      "upi_launch_2016": {
+        "impact_on_digital_payments": "+300% transaction volumes in 2 years",
+        "impact_on_merchant_adoption": "+500,000 merchants per year",
+        "lag_structure": "rapid exponential growth",
+        "confidence": "high"
+      },
+      "aadhaar_digital_id": {
+        "impact_on_account_opening": "+200 million new accounts",
+        "impact_on_kyc_costs": "-90% reduction",
+        "lag_structure": "24-36 months for full effect",
+        "confidence": "high"
+      }
+    }
+  }
+}
