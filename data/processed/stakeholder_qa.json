@@ -1,0 +1,38 @@
+{
+  "What drives financial inclusion in Ethiopia?": {
+    "answer": "\n        PRIMARY DRIVERS:\n        1. MOBILE MONEY EXPANSION: Telebirr and M-Pesa are key accelerators\n        2. INFRASTRUCTURE: 4G coverage and digital ID enable access\n        3. POLICY FRAMEWORK: NFIS-II provides strategic direction\n        4. COMPETITION: Market entry drives innovation and adoption\n        5. CONSUMER ADOPTION: Digital literacy and trust building\n        \n        EVIDENCE FROM FORECASTING:\n        \u2022 Event impact analysis shows mobile money launches have highest immediate impact\n        \u2022 Infrastructure investments show longer-term cumulative effects\n        \u2022 Policy events create enabling environment for sustained growth\n        ",
+    "supporting_data": {
+      "highest_impact_events": [
+        "Telebirr Launch",
+        "M-Pesa Ethiopia Launch",
+        "Fayda Digital ID"
+      ],
+      "infrastructure_importance": "4G coverage and agent density show strong correlation with inclusion"
+    }
+  },
+  "How do events affect inclusion outcomes?": {
+    "answer": "\n        EVENT IMPACT ANALYSIS (FROM TASK 3):\n        \n        1. PRODUCT LAUNCHES (e.g., Telebirr, M-Pesa):\n           \u2022 Immediate impact on mobile money adoption (5-10pp over 2-3 years)\n           \u2022 Gradual effect on overall account ownership\n           \u2022 Significant boost to digital payment usage\n        \n        2. INFRASTRUCTURE INVESTMENTS (e.g., 4G, Digital ID):\n           \u2022 Longer-term impacts (3-5 year horizon)\n           \u2022 Enable broader ecosystem development\n           \u2022 Particularly important for rural inclusion\n        \n        3. POLICY CHANGES (e.g., NFIS-II, regulatory reforms):\n           \u2022 Systemic effects across multiple indicators\n           \u2022 Create enabling environment for private sector\n           \u2022 Often have implementation lags (6-12 months)\n        \n        4. MARKET ENTRY (e.g., Safaricom Ethiopia):\n           \u2022 Drive competition and innovation\n           \u2022 Improve affordability and service quality\n           \u2022 Expand geographical coverage\n        ",
+    "supporting_data": {
+      "impact_magnitudes": "Event impacts range from 1-15pp depending on type and scale",
+      "time_lags": "Immediate to 36 months for full effect"
+    }
+  },
+  "How did financial inclusion rates change in 2025?": {
+    "answer": "\n        2025 STATUS (BASED ON TREND PROJECTION AND KNOWN EVENTS):\n        \n        ACCOUNT OWNERSHIP:\n        \u2022 Expected to reach approximately 52-55% (from 49% in 2024)\n        \u2022 Growth driven by continued mobile money expansion\n        \u2022 Digital ID rollout begins showing effects\n        \n        DIGITAL PAYMENT USAGE:\n        \u2022 Expected to reach approximately 38-42% (from ~35% in 2024)\n        \u2022 P2P transactions continue growing rapidly\n        \u2022 Merchant payments and bill payments increasing\n        \n        KEY 2025 DEVELOPMENTS:\n        \u2022 M-Pesa EthSwitch integration (enhances interoperability)\n        \u2022 EthioPay instant payment system launch\n        \u2022 Continued Telebirr user growth\n        \u2022 Digital ID (Fayda) expansion\n        \n        NOTE: 2025 is a forecast year; actual data will validate model accuracy\n        ",
+    "supporting_data": {
+      "projected_growth": "3-6pp annual growth depending on indicator",
+      "key_2025_events": [
+        "M-Pesa EthSwitch Integration",
+        "EthioPay Launch",
+        "Digital ID Expansion"
+      ]
+    }
+  },
+  "How will it look like in the coming years, 2026 and 2027?": {
+    "answer": "\n        2026-2027 OUTLOOK (BASE SCENARIO):\n        \n        ACCOUNT OWNERSHIP:\n        \u2022 2026: 55-58%\n        \u2022 2027: 58-62%\n        \u2022 Trend: Continued growth but may slow without additional interventions\n        \n        DIGITAL PAYMENT USAGE:\n        \u2022 2026: 42-46%\n        \u2022 2027: 46-50%\n        \u2022 Trend: Faster growth than account ownership\n        \n        KEY MILESTONES:\n        \u2022 P2P interoperability fully operational\n        \u2022 Digital ID coverage reaching critical mass\n        \u2022 Increased competition driving innovation\n        \u2022 Potential new market entrants\n        \n        CRITICAL SUCCESS FACTORS:\n        1. Policy implementation effectiveness\n        2. Infrastructure rollout pace\n        3. Consumer adoption rates\n        4. Economic stability and growth\n        \n        SCENARIO RANGES (2027):\n        \u2022 Optimistic: 5-10pp above base scenario\n        \u2022 Pessimistic: 5-10pp below base scenario\n        ",
+    "supporting_data": {
+      "growth_trajectory": "Compound annual growth rate of 4-8%",
+      "target_gap": "May fall short of NFIS-II 2030 targets without acceleration"
+    }
+  }
+}

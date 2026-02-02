@@ -1,0 +1,172 @@
+{
+  "metadata": {
+    "project": "Ethiopia Financial Inclusion Forecasting",
+    "task": "Task 4: Forecasting Access and Usage",
+    "date": "2026-02-02",
+    "forecast_years": [
+      2025,
+      2026,
+      2027
+    ],
+    "confidence_level": 0.95
+  },
+  "methodology": {
+    "approaches": {
+      "baseline": {
+        "name": "Trend Projection",
+        "description": "Simple linear/logarithmic trend continuation",
+        "method": "Linear regression on historical data",
+        "use_case": "Conservative baseline without event effects",
+        "uncertainty": "Wider confidence intervals due to sparse data"
+      },
+      "event_augmented": {
+        "name": "Event-Augmented Model",
+        "description": "Baseline trend + event impact adjustments",
+        "method": "Trend projection + impact matrix adjustments",
+        "use_case": "Primary forecasting model incorporating known events",
+        "uncertainty": "Incorporates confidence scores from Task 3"
+      },
+      "scenario_analysis": {
+        "name": "Scenario Analysis",
+        "description": "Multiple plausible futures based on different assumptions",
+        "method": "Optimistic/Base/Pessimistic scenarios",
+        "use_case": "Stakeholder communication and risk assessment",
+        "uncertainty": "Explicit scenario ranges"
+      }
+    },
+    "scenarios": {
+      "optimistic": {
+        "description": "Accelerated digital transformation",
+        "assumptions": [
+          "Strong policy implementation and enforcement",
+          "Rapid infrastructure rollout (4G, digital ID)",
+          "High consumer adoption rates",
+          "Favorable regulatory environment",
+          "Increased competition driving innovation"
+        ],
+        "impact_multiplier": 1.5,
+        "trend_multiplier": 1.3,
+        "uncertainty_reduction": 0.7
+      },
+      "base": {
+        "description": "Current trajectory continuation",
+        "assumptions": [
+          "Moderate policy implementation",
+          "Steady infrastructure development",
+          "Gradual consumer adoption",
+          "Stable regulatory environment",
+          "Continued competition as expected"
+        ],
+        "impact_multiplier": 1.0,
+        "trend_multiplier": 1.0,
+        "uncertainty_reduction": 1.0
+      },
+      "pessimistic": {
+        "description": "Slower progress with challenges",
+        "assumptions": [
+          "Policy implementation delays",
+          "Infrastructure rollout challenges",
+          "Lower consumer adoption rates",
+          "Regulatory hurdles",
+          "Limited competition and innovation"
+        ],
+        "impact_multiplier": 0.5,
+        "trend_multiplier": 0.7,
+        "uncertainty_reduction": 1.3
+      }
+    },
+    "indicators": {
+      "ACC_OWNERSHIP": {
+        "name": "Account Ownership Rate",
+        "description": "Share of adults with account at financial institution or mobile money",
+        "pillar": "ACCESS",
+        "target_2030": 70.0,
+        "historical_years": [
+          2011,
+          2014,
+          2017,
+          2021,
+          2024
+        ],
+        "historical_values": [
+          14.0,
+          22.0,
+          35.0,
+          46.0,
+          49.0
+        ],
+        "unit": "percentage",
+        "forecasting_priority": "HIGH"
+      },
+      "USG_DIGITAL_PAYMENT": {
+        "name": "Digital Payment Usage Rate",
+        "description": "Share of adults who made or received digital payment",
+        "pillar": "USAGE",
+        "target_2030": 60.0,
+        "historical_years": [
+          2021,
+          2024
+        ],
+        "historical_values": [
+          null,
+          35.0
+        ],
+        "unit": "percentage",
+        "forecasting_priority": "HIGH"
+      },
+      "ACC_MM_ACCOUNT": {
+        "name": "Mobile Money Account Ownership",
+        "description": "Share of adults with mobile money account",
+        "pillar": "ACCESS",
+        "target_2030": 40.0,
+        "historical_years": [
+          2021,
+          2024
+        ],
+        "historical_values": [
+          4.7,
+          9.45
+        ],
+        "unit": "percentage",
+        "forecasting_priority": "MEDIUM"
+      }
+    }
+  },
+  "forecasts": {
+    "base": {
+      "ACC_OWNERSHIP": {
+        "2025": -5696.891575091577,
+        "2026": -5694.047252747255,
+        "2027": -5691.202930402932
+      },
+      "ACC_MM_ACCOUNT": {
+        "2025": -3193.6333333333328,
+        "2026": -3192.0499999999997,
+        "2027": -3190.4666666666662
+      }
+    }
+  },
+  "key_findings": {
+    "account_ownership_trajectory": "Expected to grow but may need acceleration to reach 2030 targets",
+    "digital_payment_growth": "Growing faster than account ownership, driven by mobile money",
+    "high_impact_events": [
+      "Telebirr Launch",
+      "M-Pesa Entry",
+      "Digital ID Rollout",
+      "NFIS-II Implementation"
+    ],
+    "critical_success_factors": [
+      "Infrastructure rollout",
+      "Policy implementation",
+      "Consumer adoption",
+      "Market competition"
+    ]
+  },
+  "recommendations": [
+    "Accelerate 4G and digital ID infrastructure",
+    "Strengthen NFIS-II policy implementation",
+    "Monitor and support consumer adoption",
+    "Enhance data collection for better forecasting",
+    "Prepare for potential new market entrants"
+  ]
+}

@@ -1,0 +1,7 @@
+Indicator,Indicator Name,Year,Forecast (%),Uncertainty (±pp),Range (%),2030 Target
+ACC_OWNERSHIP,Account Ownership Rate,2025,-5696.9,N/A,N/A,70.0
+ACC_OWNERSHIP,Account Ownership Rate,2026,-5694.0,N/A,N/A,70.0
+ACC_OWNERSHIP,Account Ownership Rate,2027,-5691.2,N/A,N/A,70.0
+ACC_MM_ACCOUNT,Mobile Money Account Ownership,2025,-3193.6,N/A,N/A,40.0
+ACC_MM_ACCOUNT,Mobile Money Account Ownership,2026,-3192.0,N/A,N/A,40.0
+ACC_MM_ACCOUNT,Mobile Money Account Ownership,2027,-3190.5,N/A,N/A,40.0

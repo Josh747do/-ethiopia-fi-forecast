@@ -1,0 +1,42 @@
+{
+  "ACC_OWNERSHIP": {
+    "2025": {
+      "baseline": 54.816849816848844,
+      "year_impact": 5.2,
+      "cumulative_impact": 5.2,
+      "augmented": 60.01684981684885
+    },
+    "2026": {
+      "baseline": 57.661172161171635,
+      "year_impact": 0.0,
+      "cumulative_impact": 5.2,
+      "augmented": 62.86117216117164
+    },
+    "2027": {
+      "baseline": 60.505494505493516,
+      "year_impact": 0.0,
+      "cumulative_impact": 5.2,
+      "augmented": 65.70549450549352
+    }
+  },
+  "ACC_MM_ACCOUNT": {
+    "2025": {
+      "baseline": 11.033333333333303,
+      "year_impact": 0.0,
+      "cumulative_impact": 0.0,
+      "augmented": 11.033333333333303
+    },
+    "2026": {
+      "baseline": 12.616666666666333,
+      "year_impact": 0.0,
+      "cumulative_impact": 0.0,
+      "augmented": 12.616666666666333
+    },
+    "2027": {
+      "baseline": 14.199999999999818,
+      "year_impact": 0.0,
+      "cumulative_impact": 0.0,
+      "augmented": 14.199999999999818
+    }
+  }
+}
