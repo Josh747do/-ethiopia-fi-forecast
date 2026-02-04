@@ -25,3 +25,11 @@ pytest==7.4.3
 # Jupyter for notebooks
 jupyter==1.0.0
 ipykernel==6.27.1
+
+# requirements.txt (add these lines)
+streamlit==1.28.0
+pandas==2.1.0
+numpy==1.24.0
+plotly==5.18.0
+matplotlib==3.7.0
+seaborn==0.12.0
